@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zJT8PNRTE+EMo2IXOzGJPqpppK2gOPvA4y3QV5GSB2auEpCBKwybH6J3dDjPG38W30+O0MxMpJsq7P06yAAx3g==",
+  "dgSpecHash": "QdvZqAqGs4CAHkFRcSqgTSGs49ozF09qhNqcuqtORJFFlIt3egV2/wLa23uFegFHVi41GPsUGwiVYFy6/zMVyw==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\TEKO\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch.Tests\\Kontaktbuch.Tests.csproj",
+  "projectFilePath": "C:\\Repos\\TEKO\\TEKO-Kontaktbuch\\Kontaktbuch.Tests\\Kontaktbuch.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

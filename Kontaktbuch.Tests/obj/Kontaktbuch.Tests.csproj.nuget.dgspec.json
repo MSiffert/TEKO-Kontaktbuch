@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\TEKO\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch.Tests\\Kontaktbuch.Tests.csproj": {}
+    "C:\\Repos\\TEKO\\TEKO-Kontaktbuch\\Kontaktbuch.Tests\\Kontaktbuch.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\TEKO\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch.Tests\\Kontaktbuch.Tests.csproj": {
+    "C:\\Repos\\TEKO\\TEKO-Kontaktbuch\\Kontaktbuch.Tests\\Kontaktbuch.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\TEKO\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch.Tests\\Kontaktbuch.Tests.csproj",
+        "projectUniqueName": "C:\\Repos\\TEKO\\TEKO-Kontaktbuch\\Kontaktbuch.Tests\\Kontaktbuch.Tests.csproj",
         "projectName": "Kontaktbuch.Tests",
-        "projectPath": "C:\\Repos\\TEKO\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch.Tests\\Kontaktbuch.Tests.csproj",
+        "projectPath": "C:\\Repos\\TEKO\\TEKO-Kontaktbuch\\Kontaktbuch.Tests\\Kontaktbuch.Tests.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\TEKO\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch.Tests\\obj\\",
+        "outputPath": "C:\\Repos\\TEKO\\TEKO-Kontaktbuch\\Kontaktbuch.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Repos\\TEKO\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch.csproj": {
-                "projectPath": "C:\\Repos\\TEKO\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch.csproj"
+              "C:\\Repos\\TEKO\\TEKO-Kontaktbuch\\Kontaktbuch\\Kontaktbuch.csproj": {
+                "projectPath": "C:\\Repos\\TEKO\\TEKO-Kontaktbuch\\Kontaktbuch\\Kontaktbuch.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Repos\\TEKO\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch.csproj": {
+    "C:\\Repos\\TEKO\\TEKO-Kontaktbuch\\Kontaktbuch\\Kontaktbuch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\TEKO\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch.csproj",
+        "projectUniqueName": "C:\\Repos\\TEKO\\TEKO-Kontaktbuch\\Kontaktbuch\\Kontaktbuch.csproj",
         "projectName": "Kontaktbuch",
-        "projectPath": "C:\\Repos\\TEKO\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch.csproj",
+        "projectPath": "C:\\Repos\\TEKO\\TEKO-Kontaktbuch\\Kontaktbuch\\Kontaktbuch.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\TEKO\\Kontaktbuch\\Kontaktbuch\\Kontaktbuch\\obj\\",
+        "outputPath": "C:\\Repos\\TEKO\\TEKO-Kontaktbuch\\Kontaktbuch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
